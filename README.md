@@ -16,12 +16,24 @@
 
 ## Installation
 
-Clone the repository:
-
+Step 1, clone the repository:
 ```bash
 git clone https://github.com/DoOmSlAeYr/DoomBannerProject
+```
+step 2:
+```bash
+pip install -r requirements.txt
+```
+step 3:
+```bash
+python3 doom_banner.py
+```
+## congratulations!
 
+"read the (LICENSE) & (CREDITS.txt) & (README.md)
+for more information.
 
+Author : DoomSlayer
 
 
 
