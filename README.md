@@ -11,6 +11,12 @@
 - Colored output with `colorama`
 - Lightweight and portable
 - Written entirely in Python
+---
+
+A screenshot from DoomBanner!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DoOmSlAeYr/DoomBannerProject/main/DoomBanner_tool.jpg" alt="Doom Tool Banner" width="69%">
+</p>
 
 ---
 
