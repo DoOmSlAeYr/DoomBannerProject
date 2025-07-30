@@ -1,0 +1,19 @@
+==========================
+      CREDITS & RIGHTS
+==========================
+
+Tool Name: DoomBannerProject
+Author: DoomSlayer
+
+GitHub: https://github.com/DoOmSlAeYr
+Telegram: @Z7o9l
+
+Developed using:
+- Python
+- colorama
+- pyfiglet
+
+All code written by DoomSlayer © 2025.
+Do not copy, redistribute, or modify without permission, unless stated otherwise in LICENSE.
+
+Thank you for using my tool ! (:.
